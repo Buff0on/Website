@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Urban code study</title>
+  <desc id="desc">Abstract architectural shapes over a technical grid with fragments of Python code.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#e7e2d8" stroke-opacity=".12"/></pattern>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#b1ae6c"/></pattern>
+  </defs>
+  <rect width="900" height="560" fill="#1b2024"/>
+  <rect width="900" height="560" fill="url(#grid)"/>
+  <path d="M0 455L170 310l117 73 146-215 117 112 123-183 227 164v199H0z" fill="#4f6372"/>
+  <path d="M0 491L170 346l117 73 146-215 117 112 123-183 227 164" fill="none" stroke="#e7e2d8" stroke-width="2" opacity=".7"/>
+  <rect x="53" y="65" width="288" height="177" fill="#252b30" stroke="#6e787e"/>
+  <circle cx="76" cy="87" r="5" fill="#a75f42"/><circle cx="93" cy="87" r="5" fill="#b1ae6c"/>
+  <g font-family="monospace" font-size="15">
+    <text x="76" y="126" fill="#70767a">01</text><text x="109" y="126" fill="#aaa4bd">def</text><text x="143" y="126" fill="#d0bd79"> build</text><text x="191" y="126" fill="#e7e2d8">(idea):</text>
+    <text x="76" y="158" fill="#70767a">02</text><text x="109" y="158" fill="#82aabd">    learn</text><text x="180" y="158" fill="#e7e2d8">(by=</text><text x="220" y="158" fill="#9eb38f">"doing"</text><text x="282" y="158" fill="#e7e2d8">)</text>
+    <text x="76" y="190" fill="#70767a">03</text><text x="109" y="190" fill="#aaa4bd">    return</text><text x="190" y="190" fill="#c47a5b"> better</text>
+  </g>
+  <rect x="673" y="67" width="160" height="160" fill="url(#dots)" opacity=".8"/>
+  <circle cx="718" cy="350" r="98" fill="none" stroke="#b1ae6c" stroke-width="12" opacity=".85"/>
+  <circle cx="718" cy="350" r="53" fill="#a75f42" opacity=".9"/>
+  <path d="M718 251v198M619 350h198" stroke="#1b2024" stroke-width="4"/>
+  <text x="48" y="519" fill="#e7e2d8" font-family="monospace" font-size="13" letter-spacing="4">CODE / CITY / SYSTEMS</text>
+  <text x="835" y="519" fill="#b1ae6c" font-family="monospace" font-size="13" text-anchor="end">STUDY 001</text>
+</svg>

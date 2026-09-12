@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 560" role="img" aria-labelledby="title desc">
+  <title id="title">Learning systems map</title>
+  <desc id="desc">Abstract connected diagram representing code, games, tools, and ideas.</desc>
+  <rect width="620" height="560" fill="#a75f42"/>
+  <g fill="none" stroke="#17191b" stroke-width="2">
+    <path d="M107 135L309 89l184 104-77 223-249 12z"/>
+    <path d="M107 135l202 176L493 193M309 89v222l107 105M167 428l142-117"/>
+    <circle cx="107" cy="135" r="53" fill="#e7e2d8"/>
+    <circle cx="309" cy="89" r="35" fill="#5c627d"/>
+    <circle cx="493" cy="193" r="66" fill="#1b2024"/>
+    <circle cx="416" cy="416" r="46" fill="#9da078"/>
+    <circle cx="167" cy="428" r="72" fill="#4f6372"/>
+    <circle cx="309" cy="311" r="82" fill="#d6d0c4" stroke-width="5"/>
+  </g>
+  <g font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">
+    <text x="107" y="140" fill="#111315">IDEAS</text><text x="309" y="94" fill="#e7e2d8">TOOLS</text>
+    <text x="493" y="198" fill="#e7e2d8">CODE</text><text x="416" y="421" fill="#111315">ITERATE</text>
+    <text x="167" y="433" fill="#e7e2d8">GAMES</text><text x="309" y="316" fill="#111315" font-size="18">BUILD</text>
+  </g>
+  <text x="28" y="38" fill="#111315" font-family="monospace" font-size="17" font-weight="bold">LEARNING LOOP</text>
+  <text x="28" y="530" fill="#111315" font-family="monospace" font-size="12">OBSERVE / TEST / REPEAT</text>
+</svg>
