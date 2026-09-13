@@ -184,6 +184,7 @@ a { color: inherit; }
 .contact-links a:hover { background: var(--ink); color: white; }
 .footer { position: fixed; z-index: 20; right: 0; bottom: 0; left: 0; background: var(--ink); color: #aaa9a3; font: 400 10px "DM Mono", monospace; box-shadow: 0 -1px 0 rgba(255,255,255,.12); }
 .footer .container { min-height: 80px; display: flex; align-items: center; justify-content: space-between; }.footer a { text-decoration: none; color: white; }
+.footer-minimal .container { justify-content: flex-start; gap: 32px; }
 
 @media (max-width: 850px) {
   body { padding-bottom: 0; }
